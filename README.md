@@ -6,6 +6,9 @@
 [![Tech Stack](https://img.shields.io/badge/stack-MERN%2BSocket.io-blue)](https://github.com)
 [![Docker](https://img.shields.io/badge/docker-ready-blue)](https://docker.com)
 
+
+
+
 ## 🎯 Project Overview
 
 Cosmic Watch is a full-stack web application that transforms complex asteroid data from NASA into actionable insights. Users can track potentially hazardous asteroids, analyze collision risks, receive alerts about close approaches, and participate in community discussions.
@@ -14,7 +17,11 @@ Cosmic Watch is a full-stack web application that transforms complex asteroid da
 
 ---
 
+
+
+
 ## ✨ Key Features
+
 
 ### 🔐 User Management
 - Secure registration and login with JWT authentication
@@ -56,6 +63,9 @@ Cosmic Watch is a full-stack web application that transforms complex asteroid da
 - Security best practices throughout
 
 ---
+
+
+
 
 ## 🚀 Quick Start
 
@@ -423,5 +433,6 @@ MIT License - Free to use and modify
 
 **Let's explore the cosmos together!**
 
-#   c o s m i c - w a t c h  
+#   c o s m i c - w a t c h 
+ 
  
